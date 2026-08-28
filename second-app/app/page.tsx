@@ -1,11 +1,9 @@
-export default function Home() {
+export default function Page() {
   return (
-    <div>
-      <h1>Welcome to the Second App!</h1>
-      <p>This is the home page of the second application.</p>
-    </div>
+    <main>
+      <h1>Second App</h1>
+      <p>Your Next.js project is running.</p>
+    </main>
   );
 }
-
-
 
